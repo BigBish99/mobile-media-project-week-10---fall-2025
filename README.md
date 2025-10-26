@@ -1,1 +1,3 @@
-"# mobile-media-project-week-10---fall-2025" 
+# Funyon
+Name: Dillon Bishop
+Project: Funyon
